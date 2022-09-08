@@ -1,0 +1,12 @@
+com\example\Products\Model\Product.class
+com\example\Products\Controller\UserController.class
+com\example\Products\Service\ProductService.class
+com\example\Products\Service\ProductCommentService.class
+com\example\Products\Controller\ProductCommentController.class
+com\example\Products\Repository\ProductRepository.class
+com\example\Products\Model\ProductComment.class
+com\example\Products\Repository\ProductCommentRepository.class
+com\example\Products\Controller\ProductController.class
+com\example\Products\Model\Users.class
+com\example\Products\ProductsApplication.class
+com\example\Products\Repository\UsersRepository.class
